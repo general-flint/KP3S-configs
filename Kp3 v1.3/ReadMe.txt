@@ -8,3 +8,5 @@ Please note:
 Also do run a endstop-offset test for all your axis. https://github.com/rootiest/zippy_guides/blob/main/guides/axis_limits.md
 Same goes for the bed screws used in BED_SCREWS_ADJUST. https://www.klipper3d.org/Manual_Level.html#adjusting-bed-leveling-screws
 Same of running a pid tune for both bed and hotend. https://www.obico.io/blog/klipper-pid-tuning/
+
+Tested on a KP3S, with a Kingroon KP3 V1.3
